@@ -1,2 +1,6 @@
-streamlit>=1.35.0\npandas>=2.0.0\nopenpyxl>=3.1.0\nplotly>=6.1.1\nkaleido>=1.0.0\n
-requests>=2.31.0
+
+streamlit>=1.35.0
+pandas>=2.0.0
+openpyxl>=3.1.0
+plotly>=6.1.1
+kaleido>=1.0.0
